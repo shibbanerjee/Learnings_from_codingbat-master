@@ -14,3 +14,5 @@ def string_times(str, n): #define the string
     return str*n # n times the string
 
 print(string_times('Hi', 2))
+
+#hello
